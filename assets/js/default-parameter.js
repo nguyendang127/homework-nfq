@@ -15,7 +15,7 @@ const logger2 = (log = "default value") => {
   console.log("values 2: ", log);
 };
 
-logger2();
+logger2("heello");
 
 // ---------- Reality Example --------->
 const logger3 = (log, type = "log") => {
