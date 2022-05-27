@@ -47,3 +47,5 @@ const restParamFunc = (a, ...numbers) => {
 
 restParamFunc(1, 2, 3, 4, 5, 6);
 ```
+
+cre: [MDN-Web-Doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
